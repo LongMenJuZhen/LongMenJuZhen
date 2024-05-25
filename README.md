@@ -1,5 +1,5 @@
 ![](https://pbs.twimg.com/media/DvqmFGkVsAAQ5cq?format=jpg&name=large)
-你好，这里是龙门阵，一个……抱歉，暂时的，我并没有那种自我形象的心态，我没法再称呼自己是一个妖精或者别的幻想的东西。不过我相信那只是暂时的。至少对于近百年的人生来说，一定是暂时的。总有一天，我相信总有一天，在采取了所有合理有效的行动后，我可以宣布，我是一个妖精。
+你好，这里是龙门阵，一个……抱歉，暂时的，我并没有那种自我形象的心态，我没法再称呼自己是一个妖精或者别的幻想的东西。不过我相信那只是暂时的。至少对于近百年的人生来说，一定是暂时的。总有一天，我相信总有一天，在采取了所有合理有效的行动后，我可以宣布，我是一个----。
 # 统计数据
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LongMenJuZhen&show_icons=true&theme=vue&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 ## 以下内容均有涉猎
